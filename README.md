@@ -13,4 +13,4 @@ O usuário interage com o sistema através de um menu com 4 opções, e o progra
 
 Este projeto oferece uma interface simples para aprendizado e prática de controle de fluxo e manipulação de dados em Python.
 
-ChatGPT pode cometer erros. Considere verificar informações importantes.
+
